@@ -135,7 +135,7 @@ export default function Hero() {
               4:3 crop reads as a proper hero until there's width to spare */}
           <div className="hero-frame relative aspect-[4/3] sm:aspect-video w-full overflow-hidden">
             <img
-              src="https://behnisch.com/img/asset/YXNzZXRzLzE2NTZfUGVubi1WTEVTVC8xNjU2X1Blbm4tVkxFU1RfQmVobmlzY2gtQXJjaGl0ZWt0dXJidWVyb18xMTI2Mi0wMV9Mb1Jlcy5KUEc/1656_Penn-VLEST_Behnisch-Architekturbuero_11262-01_LoRes.JPG?w=2200&fm=&q=&key=996bbe527859119a158433d6ed9b818f"
+              src="https://www.absfacade.com.au/content/uploads/2019/10/ANU-Hancock-Building_4-700x466.jpg"
               alt="Contemporary villa by Atelier Verrier"
               className="w-full h-full object-cover contrast-[1.05] saturate-[0.95]"
               loading="eager"
