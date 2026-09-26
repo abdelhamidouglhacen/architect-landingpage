@@ -58,7 +58,7 @@ export const projects: Project[] = [
     category: 'Private residence',
     description:
       'A glass-and-steel extension that dissolves the boundary between the studio and the forest.',
-    image: 'https://scontent.faga1-2.fna.fbcdn.net/v/t39.30808-6/310426538_468976248586607_9086447621812998419_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x685&ctp=s1280x685&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=LjSoUEYKrzIQ7kNvwEGeT-d&_nc_oc=AdpJa00iHLzx1kMFDS0WkFIpJWg8kx8wcCFGzRFFAGxpvb08yCuANoqVNjsdamqi58Y&_nc_zt=23&_nc_ht=scontent.faga1-2.fna&_nc_gid=ODU3SxlGXQKYD014PkgjYQ&_nc_ss=7b2a8&oh=00_AQGP1_D8DwT-QCID81ya52NN81EV65encSyoCACYtlDCoA&oe=6A78221E',
+    image: 'https://images.pexels.com/photos/9113612/pexels-photo-9113612.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200',
   },
   {
     id: 'p3',
